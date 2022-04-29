@@ -1,2 +1,2 @@
 # SimpleNodeWebsite
-A very basic website with backend made using Node.js.
+A very basic website with backend handled using Node.js.
