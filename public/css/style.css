@@ -7,3 +7,14 @@ body {
   align-items: center;
   margin: 10px 500px 0px 500px;
 }
+
+.link-container {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: white;
+  padding: 5px;
+  font-size: 25px;
+}
