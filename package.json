@@ -1,0 +1,23 @@
+{
+  "name": "basic-webpage",
+  "version": "1.0.0",
+  "description": "a basic webpage built using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryantMeskill/BasicWebsite.git"
+  },
+  "author": "Bryant Meskill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryantMeskill/BasicWebsite/issues"
+  },
+  "homepage": "https://github.com/BryantMeskill/BasicWebsite#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node": "^17.7.2"
+  }
+}
